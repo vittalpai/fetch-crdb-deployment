@@ -31,6 +31,6 @@ chmod +x fetch_cluster_details.sh
 ./fetch_cluster_details.sh
 ```
 
-5. Follow the prompts to enter the base URL along with User crederntials.
+5. Follow the prompts to enter the base URL along with User credentials.
 
 6. The script generates and saves the CRDB deployment information into `crdb_details.json`.
