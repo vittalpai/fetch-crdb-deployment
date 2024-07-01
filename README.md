@@ -16,7 +16,7 @@ curl --version
 git clone https://github.com/yourusername/fetch-cluster-details.git
 ```
 
-2.Navigate to the repository directory:
+2. Navigate to the repository directory:
 ```sh
 cd fetch-cluster-details
 ```
