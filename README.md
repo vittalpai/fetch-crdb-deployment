@@ -19,6 +19,7 @@ git clone https://github.com/yourusername/fetch-cluster-details.git
 2.Navigate to the repository directory:
 ```sh
 cd fetch-cluster-details
+```
 
 3. Make the script executable:
 ```sh
