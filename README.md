@@ -13,7 +13,7 @@ curl --version
 
 1. Clone this repository to your local machine:
 ```sh
-git clone https://github.com/yourusername/fetch-cluster-details.git
+git clone https://github.com/vittalpai/fetch-crdb-deployment.git
 ```
 
 2. Navigate to the repository directory:
